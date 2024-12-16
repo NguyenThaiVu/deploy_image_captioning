@@ -44,3 +44,9 @@ docker run -d -p 5000:5000 -v $(pwd)/logs:/app/logs flask-backend
 - /app/logs: The path inside the container where the Flask app writes logs.
 
 
+# 3. Docker Container
+
+
+# 4. Docker and Microsoft Azure
+
+

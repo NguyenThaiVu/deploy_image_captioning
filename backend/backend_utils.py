@@ -7,7 +7,6 @@ def create_logger():
     log_dir = 'logs'
     os.makedirs(log_dir, exist_ok=True)
 
-
     # Create a logger
     logger = logging.getLogger(__name__)
     logger.setLevel(logging.DEBUG)  # Set the overall logger level

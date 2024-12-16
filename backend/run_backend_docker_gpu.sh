@@ -1,0 +1,1 @@
+docker run --gpus '"device=0"' -d -p 5000:5000 backend:latest
